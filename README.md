@@ -2,10 +2,30 @@
 
 **TrailIndia** is an offline-first Android trekking discovery and GPS navigation app built for trails across India using **100% free and open-source data**—with no paid APIs or API keys required.
 
-<img width="275" height="600" alt="{19BF5B46-96FE-433C-9370-B7F4863E36CA}" src="https://github.com/user-attachments/assets/76752b07-a8e8-4531-9602-03cbb2650bab" />
-<img width="275" height="600" alt="{2CB846A2-F3AC-4C10-A77C-52F972B5CB34}" src="https://github.com/user-attachments/assets/a5a296c1-c538-43a1-9460-93b8d6141448" />
-<img width="275" height="600" alt="{7CF12E47-625B-440B-8E28-9F67DA6B845B}" src="https://github.com/user-attachments/assets/7ac2b350-5906-4c12-b76c-d96d2f302010" />
-
+<table width="100%">
+  <tr>
+    <td width="33.33%">
+     <img src="https://github.com/user-attachments/assets/d94807af-54ca-423c-9e39-77346f515e04" width="100%" />
+    </td>
+    <td width="33.33%">
+      <img src="https://github.com/user-attachments/assets/82f2bdf5-b889-4564-8d47-176f2e7a910f" width="100%" />
+    </td>
+    <td width="33.33%">
+      <img src="https://github.com/user-attachments/assets/2316f2fe-6a1e-4074-9ef0-512d61b2cc82" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td width="33.33%">
+      <img src="https://github.com/user-attachments/assets/ab2c8de1-e89b-4f4c-ac49-9401be41446e" width="100%" />
+    </td>
+    <td width="33.33%">
+      <img src="https://github.com/user-attachments/assets/6eed092d-704a-4cdc-88a2-abe025eba77b" width="100%" />
+    </td>
+    <td width="33.33%">
+      <img src="https://github.com/user-attachments/assets/a446e97c-faea-4bc1-aa0f-50e9b6f3786c" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ## Features
 

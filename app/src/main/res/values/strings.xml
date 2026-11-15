@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TrailIndia</string>
+    <string name="tagline_india">OpenStreetMap Trekking Atlas</string>
+    <string name="nav_discover">Discover</string>
+    <string name="nav_map">Map</string>
+    <string name="nav_record">Record</string>
+    <string name="nav_offline">Offline</string>
+    <string name="search_trails_hint">Search trails, peaks, or states…</string>
+    <string name="osm_attribution">Map data © OpenStreetMap contributors, SRTM | Map style © OpenTopoMap</string>
+    <string name="gps_permission_rationale">Location access lets TrailIndia center the map near you, find nearby trails, and record your GPS trek offline.</string>
+</resources>
